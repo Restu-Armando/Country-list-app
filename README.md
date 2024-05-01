@@ -13,7 +13,7 @@ This is a simple React app that displays a list of countries. It allows users to
 2. Navigate to the project directory:
 
    ```
-   cd country-app
+   cd country-list-app
    ```
 
 3. Install dependencies:
